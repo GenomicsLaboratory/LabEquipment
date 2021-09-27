@@ -1,6 +1,8 @@
-# LabEquipment
+# Equipos e instrumentos disponibles en el laboratorio de Genética y genómica aplicada.
 
-Proveedores de equipos
+
+
+# Proveedores de equipos e instrumentos.
 
 |     Empresa     |        Contacto       |                e-mail                |    Teléfono    |                  Página Web                  |         Observaciones         |
 |:---------------:|:---------------------:|:------------------------------------:|:--------------:|:--------------------------------------------:|:-----------------------------:|
