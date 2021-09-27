@@ -5,7 +5,7 @@ Proveedores de equipos
 |     Empresa     |        Contacto       |                e-mail                |    Teléfono    |                  Página Web                  |         Observaciones         |
 |:---------------:|:---------------------:|:------------------------------------:|:--------------:|:--------------------------------------------:|:-----------------------------:|
 | ThermoFisher    | Rodrigo Rivero        | rodrigo.rivero@thermofisher.com      |                | https://www.thermofisher.com/cl/es/home.html | Reactivos y equipos           |
-|                 | Carolina Henriquez    | carolina.henriquez@thermofisher.com  | 56 9 90789687  |                                              |                               |
+|          ThermoFisher       | Carolina Henriquez    | carolina.henriquez@thermofisher.com  | 56 9 90789687  |                                              |                               |
 | Ltech           | Maria José Valenzuela | ventas2@ltech.cl                     | 56 9 42637898  | www.ltech.cl                                 | Equipos y fungibles           |
 | Merck           | Pamela Meneses        | pamela.meneses@merckgroup.com        | 56 9 90992006  | www.merckmillipore.com/CL/es                 | Reactivos                     |
 | Los Alquimistas | Ines Luksic           | ines.luksic@losalquimistas.cl        | 56 9 61248250  | http://www.losalquimistas.cl/                | Reactivos                     |
